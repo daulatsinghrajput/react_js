@@ -1,0 +1,22 @@
+# Node modules folder
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore any other unwanted files or folders
+/path/to/your/unwanted/folder/
+*.tmp
+*.backup
